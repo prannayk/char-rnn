@@ -142,3 +142,6 @@ To learn more about RNN language models I recommend looking at:
 ## License
 
 MIT
+
+## Based on:
+This repo is forked from and code is used under the MIT License, the original code being written karpathy from where this repo is cloned.
