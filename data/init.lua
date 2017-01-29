@@ -1,4 +1,4 @@
-package = "LuaFruits"
+package = "Char-RNN"
 version = "1.0-1"
 source = {
     url = "https://github.com/prannayk/char-rnn.git"
